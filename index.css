@@ -397,6 +397,10 @@
 .home-image14:hover {
   border: inherit;
 }
+.home-container22 {
+  width: 100%;
+  height: var(--dl-size-size-small);
+}
 .home-container23 {
   display: contents;
 }
