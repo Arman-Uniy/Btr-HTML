@@ -12,6 +12,13 @@
   background-color: #222222;
 }
 .fnaf-custom-container1 {
+  flex: 0 0 auto;
+  width: 101%;
+  height: 101%;
+  display: flex;
+  align-items: flex-start;
+}
+.fnaf-custom-container2 {
   top: 0px;
   flex: 1;
   left: 0px;
@@ -24,6 +31,6 @@
   position: absolute;
   align-self: center;
 }
-.fnaf-custom-container2 {
+.fnaf-custom-container3 {
   display: contents;
 }
